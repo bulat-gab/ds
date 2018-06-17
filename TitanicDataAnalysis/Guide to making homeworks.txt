@@ -1,0 +1,11 @@
+Solutions should be sent to v.v.kitov@yandex.ru and e-mail title should start with INNOPOLIS keyword, followed by homework name and number or your question.
+
+All deadlines are strict, you will not receive any points for late submission.
+
+Copying homework solutions is not permitted. All works susceptible for copying will not be graded.
+
+Solutions to theoretical homeworks should be short, mathematically strict, arguments should not be general, they should answer the asked questions. pdf with latex is preferred though you may also send scans with clearly written solutions.
+
+Practical homeworks should also give answers to stated questions in easy to read way.
+
+Good luck! ( you will have more luck if you start making homeworks in advance ;) )
